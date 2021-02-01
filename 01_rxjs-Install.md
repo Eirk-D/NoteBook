@@ -1,3 +1,4 @@
+```
 ### p1
 RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
 It provides one core type, the Observable, satellite types (Observer, Schedulers, Subjects) and operators inspired by
@@ -19,3 +20,4 @@ Subject: is the equivalent to an EventEmitter, and the only way of multicasting 
 Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when // 调度： 控制并发
 computation happens on e.g. setTimeout or requestAnimationFrame or others.
 <主要类型有 Observable、Observer、Subscription、Operators、Subject、Schedulers六种类型>
+```
